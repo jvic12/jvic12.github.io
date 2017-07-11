@@ -1,5 +1,5 @@
 # Hype
 
 
-[OP.GG](https://na.op.gg/summoner/userName=Ondurguo)
+* [My op.gg](https://na.op.gg/summoner/userName=Ondurguo)
 
