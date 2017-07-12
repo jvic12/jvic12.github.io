@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Ondurguo
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: "A Hardstuck Diamond 5 player"
 email: jonathan.victorino12@gmail.com
 name: Jonathan Victorino
 description: >
@@ -72,8 +72,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TSMOndurguo
-    url: https://twitter.com/TSMOndurguo
+    username: jvic17
+    url: https://twitter.com/jvic17
     desc: Follow me on Twitter
     share: true
 
