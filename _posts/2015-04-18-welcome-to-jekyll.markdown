@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to do things"
 date:   2015-04-18 08:43:59
-author: Ben Centra
+author: Jonathan Victorino
 categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
@@ -20,7 +20,7 @@ If you list one or more categories or tags in the front matter of your post, the
 
 ### Cover Images
 
-To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/cover_image.jpg"</code>).
+To add a cover image to your post, set the "cover" property in the front matter with the relative URL of the image (i.e. <code>cover: "/assets/runners-head-69657_1920.jpg</code>).
 
 ### Code Snippets
 
