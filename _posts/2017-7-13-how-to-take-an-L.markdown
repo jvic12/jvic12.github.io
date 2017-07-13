@@ -9,4 +9,4 @@ categories: L's
 1. Step 1: Identify the L
 2. Step 2: Take the L
 
-![Mountain](../images/header_image.jpg)
+![Mountain](../assets/header_image.jpg)
