@@ -3,7 +3,7 @@ layout: post
 title:  "How to take an L"
 date:   2017-07-13 02:38:59
 author: Jonathan Victorino
-categories: dummy
+categories: L's
 ---
 
 1. Step 1: Identify the L
