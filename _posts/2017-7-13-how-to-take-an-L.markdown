@@ -4,7 +4,7 @@ title:  "How to take an L"
 date:   2017-07-13 02:38:59
 author: Jonathan Victorino
 categories: L's
-cover: "/../assets/header_image.jpg"
+cover: "/../assets/emerald-bay.jpg"
 ---
 # The Steps for Taking L's
 1. Identify the L
