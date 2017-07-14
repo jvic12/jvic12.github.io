@@ -7,7 +7,8 @@ categories: L's
 cover: "/../assets/header_image.jpg"
 ---
 # The Steps for Taking L's
-1. Step 1: Identify the L
-2. Step 2: Take the L
+1. Identify the L
+2. Take the L
+3. Here's a mountain
 
 ![Mountain](/../assets/header_image.jpg)
