@@ -10,3 +10,4 @@ categories: L's
 2. Step 2: Take the L
 
 ![Mountain](../assets/header_image.jpg)
+Format: ![Hill](home/victorino5/jvic12.gitub.io/assets/header_image.jpg)
