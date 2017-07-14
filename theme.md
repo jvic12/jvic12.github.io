@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hype
-cover: "assets/hanalei.jpg"
+cover: "/assets/hanalei.jpg"
 ---
 # Hype
 
