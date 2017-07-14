@@ -9,5 +9,5 @@ categories: L's
 1. Step 1: Identify the L
 2. Step 2: Take the L
 
-<img src="../assests/header_image.jpg">
+<img src="../assets/header_image.jpg">
 ![Mountain](../assets/header_image.jpg)
